@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQPABQAAAAAAAAAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA8AAAAAAAAAAAAA8A8AAAAAAAAAAAAA/wAAAADwAAAAAO/uEf8REfH/AAAAAO/vEV8REfH/AAAAAO/uEV8BAAAAAAAAAO/uEV8REfH/AAAAAO/uEf8REfH/AAAAAAAA/wAAAADwAAAAAAAA8A8AAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "mhmd"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
